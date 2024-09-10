@@ -1,0 +1,66 @@
+<mxfile host="Electron" modified="2024-08-06T22:14:44.007Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="IJbDMvxKzBgyMZX3OWdj" version="24.6.4" type="device" pages="2">
+  <diagram name="Portrait" id="0RD52IQTlSNer-iXqU8V">
+    <mxGraphModel dx="275" dy="165" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100" pageHeight="150" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ckypIHXQvi-N3_Oi51Lr-1" value="&lt;p style=&quot;line-height: 120%; font-size: 4px;&quot;&gt;Get Device List&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="105" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DsGueES0F_zKQnOJUbIn-1" value="&lt;p style=&quot;line-height: 120%; font-size: 4px;&quot;&gt;Save to directory...&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="120" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-fqv2uq7eARbxxOn7lc--1" value="&lt;p style=&quot;line-height: 120%; font-size: 4px;&quot;&gt;Scan&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="135" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="XWaRz7ySs5waKvHBEToG-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;device list choice&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5" y="5" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="SLurSEObjaduT3kneCyt-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;resolution choice&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5" y="25" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="owwFcNVNt9oSXPJabwGH-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;format choice&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5" y="45" width="90" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="5DWZUGYphY-vdjV-7LSR-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;filename template&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5" y="65" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2CSu-Kf8vVAbKPE_nmU-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;scanned docs history&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Landscape" id="hu3JUIqmjpX_kUt-p_n2">
+    <mxGraphModel dx="231" dy="138" grid="1" gridSize="5" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="150" pageHeight="100" math="0" shadow="0">
+      <root>
+        <mxCell id="rs7kPuL4gE1ZdYMg5D-P-0" />
+        <mxCell id="rs7kPuL4gE1ZdYMg5D-P-1" parent="rs7kPuL4gE1ZdYMg5D-P-0" />
+        <mxCell id="wD45esnxA-z7x6GStAg8-0" value="&lt;p style=&quot;line-height: 120%; font-size: 4px;&quot;&gt;Get Device List&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rs7kPuL4gE1ZdYMg5D-P-1">
+          <mxGeometry x="5" y="85" width="35" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2PTxRh_TxL__uayTwJ9M-0" value="&lt;i&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;device list choice&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="rs7kPuL4gE1ZdYMg5D-P-1">
+          <mxGeometry x="5" y="5" width="140" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="2PTxRh_TxL__uayTwJ9M-1" value="&lt;p style=&quot;line-height: 120%; font-size: 4px;&quot;&gt;Save to directory...&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rs7kPuL4gE1ZdYMg5D-P-1">
+          <mxGeometry x="45" y="85" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="2PTxRh_TxL__uayTwJ9M-2" value="&lt;p style=&quot;line-height: 120%; font-size: 4px;&quot;&gt;Scan&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rs7kPuL4gE1ZdYMg5D-P-1">
+          <mxGeometry x="100" y="85" width="45" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="JtFQqCaPOX1ywkQpghLs-0" value="&lt;i&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;activity/scanned docs history&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="rs7kPuL4gE1ZdYMg5D-P-1">
+          <mxGeometry x="5" y="60" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7GW5ElewrWt1McLtMy21-0" value="&lt;i&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;resolution choice&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="rs7kPuL4gE1ZdYMg5D-P-1">
+          <mxGeometry x="5" y="25" width="60" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="7GW5ElewrWt1McLtMy21-1" value="&lt;i&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;format choice&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="rs7kPuL4gE1ZdYMg5D-P-1">
+          <mxGeometry x="75" y="25" width="70" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="7GW5ElewrWt1McLtMy21-2" value="&lt;i&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;filename template&lt;/font&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="rs7kPuL4gE1ZdYMg5D-P-1">
+          <mxGeometry x="5" y="45" width="140" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
