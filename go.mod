@@ -1,6 +1,6 @@
 module github.com/charles-m-knox/go-fltk-sane
 
-go 1.22.5
+go 1.23.4
 
 require (
 	github.com/adrg/xdg v0.5.0
